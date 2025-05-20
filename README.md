@@ -9,6 +9,8 @@ This restaurant overview highlights our passion for global flavors, fresh ingred
 
 ![food image 7](https://github.com/user-attachments/assets/ead6d1a4-0866-4be7-89d2-c89e793ad12c)
 
+![Food image 3](https://github.com/user-attachments/assets/cf5adf2a-9232-4c3e-9a0b-a2fca4c3988b)
+
 # KPI Questions
 Which signature dishes generate the highest sales and customer ratings?
 
