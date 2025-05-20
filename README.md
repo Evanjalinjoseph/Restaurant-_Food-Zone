@@ -5,7 +5,7 @@ This restaurant overview highlights our passion for global flavors, fresh ingred
 |[Drive Url](https://drive.google.com/drive/folders/1PVWwzy37ugt5mx9ivEvC7pIV2vly5z1W?usp=drive_link)
 
 # Project 
-|[image alt](https://github.com/Evanjalinjoseph/Restaurant-_Food-Zone/blob/99411036face388d8bb8eac03e984655caba9a50/Food%20image%201.png)
+![Food image 1](https://github.com/user-attachments/assets/a48bfcc2-1500-47d1-ab42-3ddf8a884fd6)
 
 # KPI Questions
 Which signature dishes generate the highest sales and customer ratings?
